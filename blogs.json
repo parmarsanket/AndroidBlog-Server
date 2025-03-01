@@ -1,28 +1,28 @@
 [
   {
     "id" : 1,
-    "title" : "Android Development learing zero to hero",
+    "title" : "Mastering Jetpack Compose: The Future of Android UI Development",
     "thumbnail_url" : "https://raw.githubusercontent.com/parmarsanket/AndroidBlog-Server/refs/heads/main/images/img1.jpg",
     "content_url" : "https://raw.githubusercontent.com/parmarsanket/AndroidBlog-Server/refs/heads/main/blogs/blog1.md"
   },
   
   {
     "id" : 2,
-    "title" : "Android Development learing zero to hero",
+    "title" : "Exploring Kotlin Coroutines: Writing Efficient Asynchronous Code in Android",
     "thumbnail_url" : "https://raw.githubusercontent.com/parmarsanket/AndroidBlog-Server/refs/heads/main/images/img2.jpg",
     "content_url" : "https://raw.githubusercontent.com/parmarsanket/AndroidBlog-Server/refs/heads/main/blogs/blog2.md"
   },
   
   {
     "id" : 3,
-    "title" : "Android Development learing zero to hero",
+    "title" : "Best Practices for Android Room Database: Migrations, Queries, and Performance Tips",
     "thumbnail_url" : "https://raw.githubusercontent.com/parmarsanket/AndroidBlog-Server/refs/heads/main/images/img3.jpg",
     "content_url" : "https://raw.githubusercontent.com/parmarsanket/AndroidBlog-Server/refs/heads/main/blogs/blog3.md"
   },
   
   {
     "id" : 4,
-    "title" : "Android Development learing zero to hero",
+    "title" : "Building a Secure Android App: Authentication, Encryption, and Data Protection",
     "thumbnail_url" : "https://raw.githubusercontent.com/parmarsanket/AndroidBlog-Server/refs/heads/main/images/images.png",
     "content_url" : "https://raw.githubusercontent.com/parmarsanket/AndroidBlog-Server/refs/heads/main/blogs/blog4.md"
   }
